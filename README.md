@@ -1,5 +1,5 @@
 # chatgpt-evaluation-01-2023
-Code, datasets and results of the ChatGPT evaluation presented in paper "ChatGPT: Jack of all trades, master of none":
+Code, datasets and results of the ChatGPT evaluation presented in paper [ChatGPT: Jack of all trades, master of none](https://arxiv.org/abs/2302.10724):
 ```
 @misc{arxiv.2302.10724,
   doi = {10.48550/ARXIV.2302.10724}, 
